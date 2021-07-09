@@ -1,0 +1,26 @@
+var classcocos2d_1_1network_1_1_http_request =
+[
+    [ "_prxy", "d7/d53/classcocos2d_1_1network_1_1_http_request_1_1__prxy.html", "d7/d53/classcocos2d_1_1network_1_1_http_request_1_1__prxy" ],
+    [ "Type", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#a1d1cfd8ffb84e947f82999c682b666a7", null ],
+    [ "HttpRequest", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#a785ca311f7569c57a36d9a10a7c128ea", null ],
+    [ "~HttpRequest", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#a84c1d7ce6f0c14f3173f25326af108fc", null ],
+    [ "autorelease", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#a8a2345cdb9d96629de5dbaf88e36d505", null ],
+    [ "setRequestType", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#a36884112901121818d079ae6d752d98a", null ],
+    [ "getRequestType", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#a4e3504ed04e050919fd03c05dd3de778", null ],
+    [ "setUrl", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#a8a9aef24883da876be6ba3a8015f4584", null ],
+    [ "getUrl", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#acfeca6219f0db27e1378c4328b6e8cd3", null ],
+    [ "setRequestData", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#a711bdaeed5c51700acdb6318e66740cc", null ],
+    [ "getRequestData", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#a343ed0a7f74e9fa151fae4f06ad66615", null ],
+    [ "getRequestDataSize", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#abc5590b998945405ae482ee76c4327a6", null ],
+    [ "setTag", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#a7f57a9ed979c10c89eb81e09136718a5", null ],
+    [ "getTag", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#af6e0f82e592dcc48a99b1f29f598ff97", null ],
+    [ "setUserData", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#a760e981419307dc53ca0c7e885b9123a", null ],
+    [ "getUserData", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#a984204a26ef79a4a7f10cd1bc2ff9c1d", null ],
+    [ "setResponseCallback", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#a0c6b7cd2f59fcca3c65e9fbee6bb1a26", null ],
+    [ "setResponseCallback", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#a988efcd497578c5329b39bd5f7271d28", null ],
+    [ "getTarget", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#ac7d014b3e1f9ebcec0b2324d66434535", null ],
+    [ "getSelector", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#a1d0aa8acac8a8ad3c07b125244e34d6b", null ],
+    [ "getCallback", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#a487daecb1d16ce70c7c3fba5a6f43b32", null ],
+    [ "setHeaders", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#aebab2b4f2453e4968053788da9373ffb", null ],
+    [ "getHeaders", "db/d8f/classcocos2d_1_1network_1_1_http_request.html#a6eada171f1ba5c4d2f3341cf71d5d9a2", null ]
+];

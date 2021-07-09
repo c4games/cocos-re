@@ -1,0 +1,28 @@
+var classcocos2d_1_1_sprite3_d =
+[
+    [ "setTexture", "df/d0d/classcocos2d_1_1_sprite3_d.html#ab97f509ddefc2e316d5771c67eb1ce7d", null ],
+    [ "getMeshByIndex", "df/d0d/classcocos2d_1_1_sprite3_d.html#adb8b166d4c69bcdd82e07a053c6bdf3f", null ],
+    [ "getMeshByName", "df/d0d/classcocos2d_1_1_sprite3_d.html#a149c6fb94f34c4e7d1c5693129e7b35a", null ],
+    [ "getMeshArrayByName", "df/d0d/classcocos2d_1_1_sprite3_d.html#a42fe347fc9be19612b2b11e3cc59953c", null ],
+    [ "getMesh", "df/d0d/classcocos2d_1_1_sprite3_d.html#a375f09ddc69e1223c2ac0ef18ac0b1a0", null ],
+    [ "getMeshCount", "df/d0d/classcocos2d_1_1_sprite3_d.html#ace1baa3e553c18f1fe2bbc7486f8f7c9", null ],
+    [ "getAttachNode", "df/d0d/classcocos2d_1_1_sprite3_d.html#ae3849e185675d320cd7fb6e3a4d981c5", null ],
+    [ "removeAttachNode", "df/d0d/classcocos2d_1_1_sprite3_d.html#a4b0e81f593e891c63865ec6e0ad6ab45", null ],
+    [ "removeAllAttachNode", "df/d0d/classcocos2d_1_1_sprite3_d.html#ada3d2595f500b1b1da460af863ab4d1a", null ],
+    [ "setProgramState", "df/d0d/classcocos2d_1_1_sprite3_d.html#a1fea730dc21b4a19b56ab386c88ce19e", null ],
+    [ "runAction", "df/d0d/classcocos2d_1_1_sprite3_d.html#a133d4d58cef0146c1bdcbec67db2bf2a", null ],
+    [ "setForceDepthWrite", "df/d0d/classcocos2d_1_1_sprite3_d.html#a256ad6a9ad0c7c3852913d8ac0800c89", null ],
+    [ "getBoundingBox", "df/d0d/classcocos2d_1_1_sprite3_d.html#a2980d441674f5abb25401f2f65e00f04", null ],
+    [ "setLightMask", "df/d0d/classcocos2d_1_1_sprite3_d.html#a74ec11102eb9b94c76af54130a75d865", null ],
+    [ "draw", "df/d0d/classcocos2d_1_1_sprite3_d.html#a0f59730fa0bd109f318e0a18bb4f8945", null ],
+    [ "setMaterial", "df/d0d/classcocos2d_1_1_sprite3_d.html#a1dfd1a55fa3cc625719dab8e95c8a2de", null ],
+    [ "setMaterial", "df/d0d/classcocos2d_1_1_sprite3_d.html#a32843a8e722c089497dc9d1db6f5c1d7", null ],
+    [ "getMaterial", "df/d0d/classcocos2d_1_1_sprite3_d.html#a99e877ce48824eb377f720325799e528", null ],
+    [ "setForce2DQueue", "df/d0d/classcocos2d_1_1_sprite3_d.html#a107b29039266c9ce2f2642d3ef589aa6", null ],
+    [ "getMeshes", "df/d0d/classcocos2d_1_1_sprite3_d.html#ac79e9b11c357c3b60ec82ec77f1470b5", null ],
+    [ "loadFromCache", "df/d0d/classcocos2d_1_1_sprite3_d.html#a1890fe822d6aa6f2f69384a7204fe2be", null ],
+    [ "loadFromFile", "df/d0d/classcocos2d_1_1_sprite3_d.html#a936ff111f345bb33b191562de0a4c4dc", null ],
+    [ "visit", "df/d0d/classcocos2d_1_1_sprite3_d.html#a445f8831c456f176e20bbb6a32f27181", null ],
+    [ "genMaterial", "df/d0d/classcocos2d_1_1_sprite3_d.html#aca4eb4c0fae163a1e8c94a5a76f0ebfd", null ],
+    [ "getMeshIndexData", "df/d0d/classcocos2d_1_1_sprite3_d.html#a4ecc8af5b5cb5bc73d110d7169b960b8", null ]
+];
